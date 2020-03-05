@@ -18,6 +18,7 @@ let main () =
     (* Defining a function *)
     print_endline (string_of_float (avarage 3.0 4.0));
 
+    (float_of_int i )
 ;;
 
 main()
